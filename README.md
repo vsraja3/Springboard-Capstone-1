@@ -1,6 +1,6 @@
 # Springboard Capstone 1
 
-***This README contains the overall project report with the headers containing links to the annotated Jupyter Notebook with code for further review.***
+*This README contains the overall project report with the headers containing links to the annotated Jupyter Notebook with code for further review.*
 
 ## Introduction
 
